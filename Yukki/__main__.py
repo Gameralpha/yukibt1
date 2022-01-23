@@ -375,7 +375,7 @@ async def help_parser(name, keyboard=None):
     return (
         """Hello {first_name},
 
-Click on the buttons for more information.
+nformation.
 
 All commands can be used with: /
 """.format(
